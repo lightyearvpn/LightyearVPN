@@ -1,14 +1,15 @@
-# LightyearVPN
-光年VPN
-LightyearVPN
+# 光年VPN
 
-官网 http://lightyearvpn.com
-官网2 http://guangnianvpn.com
-最新网站(2019/09/17) https://lightyearvpn.xyz
+### 官网链接
+- http://lightyearvpn.com
+- http://guangnianvpn.com
+- https://lightyearvpn.xyz 最新 2019/09/17 
 
 陆续添加最新网站!
 
+### 网盘下载
 如果Github下载较慢，可以用德国电信的网盘下载。
-网盘下载 https://www.magentacloud.de/share/ottqdjnjow#$/
+https://www.magentacloud.de/share/ottqdjnjow#$/
 
-电报群 https://t.me/lightyearvpn
+### 电报群 
+https://t.me/lightyearvpn
