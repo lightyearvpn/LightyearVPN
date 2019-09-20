@@ -1,4 +1,8 @@
-# 光年VPN - 简单，好用，安全的VPN，突破地区限制实现翻墙和科学上网
+<p align="center">
+<img alt="lightyearvpn logo" src="https://www.lightyearvpn.com/logo.png" width="100">
+</p>
+
+# 光年VPN - 🔥🔥🔥简单，好用，安全的VPN，突破地区限制实现翻墙和科学上网
 
 ### 官网链接
 
