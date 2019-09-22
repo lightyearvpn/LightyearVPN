@@ -1,14 +1,14 @@
 <p align="center">
-<img alt="lightyearvpn logo" src="https://www.lightyearvpn.com/logo.png" width="100">
+<img alt="lightyearvpn logo" src="https://www.lightyearvpn.com/logo.png" width="88">
 </p>
 
-# 光年VPN - 🔥🔥🔥简单，好用，安全的VPN，突破地区限制实现翻墙和科学上网
+## 光年VPN - 🔥🔥🔥简单，好用，安全的VPN，突破地区限制实现翻墙和科学上网
 
 ### 官网链接
 
-> http://lightyearvpn.com
+> https://lightyearvpn.com
 
-> http://guangnianvpn.com
+> https://guangnianvpn.com
 
 > https://lightyearvpn.xyz 最新 2019/09/17 
 
