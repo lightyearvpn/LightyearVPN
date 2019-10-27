@@ -22,6 +22,11 @@ var ipv6_proxy = function(){ return nowall_proxy(); };
  */
 
 var rules = [
+	".lightyearvpn.com",
+	"||lightyearvpn.com",
+	".guangnianvpn.com",
+	"||guangnianvpn.com",
+	
 	"|http://85.17.73.31/",
 	"||agnesb.fr",
 	"||akiba-web.com",
