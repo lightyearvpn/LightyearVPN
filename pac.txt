@@ -1,5 +1,5 @@
 /*
- * Last Updated:2019-10-26 18:25:41
+ * Last Updated:2019-10-28 18:26:13
  */
 var direct = "__DIRECT__";
 if (direct == "__DIR" + "ECT__") direct = "DIRECT;";
@@ -26,7 +26,7 @@ var rules = [
 	"||lightyearvpn.com",
 	".guangnianvpn.com",
 	"||guangnianvpn.com",
-	
+
 	"|http://85.17.73.31/",
 	"||agnesb.fr",
 	"||akiba-web.com",
@@ -289,10 +289,12 @@ var rules = [
 	"||doubmirror.cf",
 	"||encyclopedia.com",
 	"||fangeqiang.com",
+	"||fanqiangdang.com",
 	"||cloud.feedly.com",
 	"||flyzy2005.com",
 	"||foreignpolicy.com",
 	"||free-ss.site",
+	"||freehongkong.org",
 	"||blog.fuckgfw233.org",
 	"||g0v.social",
 	"||globalvoices.org",
@@ -391,6 +393,7 @@ var rules = [
 	"||steemit.com",
 	"||taiwanjustice.net",
 	"||tinc-vpn.org",
+	"||u15.info",
 	"||wenzhao.ca",
 	"||whatsonweibo.com",
 	"||wire.com",
@@ -398,6 +401,7 @@ var rules = [
 	"||xm.com",
 	"||xuehua.us",
 	"||yes-news.com",
+	"||yigeni.com",
 	"||you-get.org",
 	"||zzcloud.me",
 	"||aex.com",
@@ -1167,6 +1171,7 @@ var rules = [
 	"||2008xianzhang.info",
 	"||2017.hk",
 	"21andy.com/blog",
+	".21join.com",
 	".21pron.com",
 	"21sextury.com",
 	".228.net.tw",
@@ -2288,6 +2293,8 @@ var rules = [
 	"delicious.com/GFWbookmark",
 	".democrats.org",
 	"||democrats.org",
+	".demosisto.hk",
+	"||demosisto.hk",
 	"||desc.se",
 	"||dessci.com",
 	".destroy-china.jp",
@@ -4430,6 +4437,7 @@ var rules = [
 	"|http://nvtongzhisheng.org",
 	".nwtca.org",
 	"|http://nyaa.eu",
+	"||nyaa.si",
 	".nydus.ca",
 	"nylon-angel.com",
 	"nylonstockingsonline.com",
@@ -4893,6 +4901,7 @@ var rules = [
 	"||rapidmoviez.com",
 	"rapidvpn.com",
 	"||rapidvpn.com",
+	"||rarbgprx.org",
 	".raremovie.cc",
 	"|http://raremovie.cc",
 	".raremovie.net",
@@ -6433,7 +6442,7 @@ var rules = [
 	"||windscribe.com",
 	"||community.windy.com",
 	"||wingy.site",
-	"winning11.com",
+	".winning11.com",
 	"winwhispers.info",
 	"||wiredbytes.com",
 	"||wiredpen.com",
