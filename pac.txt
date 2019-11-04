@@ -1,5 +1,5 @@
 /*
- * Last Updated:2019-10-28 18:26:13
+ * Last Updated:2019-11-03 18:29:37
  */
 var direct = "__DIRECT__";
 if (direct == "__DIR" + "ECT__") direct = "DIRECT;";
@@ -22,11 +22,6 @@ var ipv6_proxy = function(){ return nowall_proxy(); };
  */
 
 var rules = [
-	".lightyearvpn.com",
-	"||lightyearvpn.com",
-	".guangnianvpn.com",
-	"||guangnianvpn.com",
-
 	"|http://85.17.73.31/",
 	"||agnesb.fr",
 	"||akiba-web.com",
@@ -285,6 +280,7 @@ var rules = [
 	"||daum.net",
 	"||depositphotos.com",
 	"||disconnect.me",
+	"||documentingreality.com",
 	"||doubibackup.com",
 	"||doubmirror.cf",
 	"||encyclopedia.com",
@@ -300,6 +296,7 @@ var rules = [
 	"||globalvoices.org",
 	"||glorystar.me",
 	"||goregrish.com",
+	"||guangnianvpn.com",
 	"||hbo.com",
 	"||spaces.hightail.com",
 	"||hkgalden.com",
@@ -313,6 +310,7 @@ var rules = [
 	"||joinmastodon.org",
 	"||liangzhichuanmei.com",
 	"||lighti.me",
+	"||lightyearvpn.com",
 	"||lihkg.com",
 	"||line-scdn.net",
 	"||i.lithium.com",
