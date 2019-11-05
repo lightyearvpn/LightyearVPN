@@ -1,0 +1,22 @@
+branches:  
+  only:
+    - master
+
+before_install:
+  - git config --global push.default matching
+  - git config --global user.name "lightyearvpn"
+  - git config --global user.email "lightyear.vpn@gmail.com"
+
+script:
+  - cat ./pac_get.sh
+  - sh ./pac_get.sh
+
+after_success:
+  - rm -rf /tmp/pac
+  - mkdir -p /tmp/pac
+  - cp pac.txt /tmp/pac
+  - cd /tmp/pac
+  - git init
+  - git add ./ -A
+  - git commit -m "Auto build"
+  - git push -u https://$GITHUB_TOKEN@github.com/lightyearvpn/pac.txt.git HEAD:pac --force
