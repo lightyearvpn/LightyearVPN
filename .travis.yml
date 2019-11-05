@@ -20,3 +20,4 @@ after_success:
   - git add ./ -A
   - git commit -m "Auto build"
   - git push -u https://$GITHUB_TOKEN@github.com/lightyearvpn/pac.txt.git HEAD:pac --force
+
