@@ -17,7 +17,7 @@
 ### 网盘下载
 如果Github下载较慢，可以使用网盘下载。
 
-> https://ciaociao.tk/apps/files/?dir=/&fileid=3
+> https://ciaociao.tk/s/haXyeDFfuwkZG2Y
 
 ### 电报群 
 
