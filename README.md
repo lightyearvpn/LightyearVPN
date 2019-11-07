@@ -15,9 +15,9 @@
 陆续添加最新网站!
 
 ### 网盘下载
-如果Github下载较慢，可以用德国电信的网盘下载。
+如果Github下载较慢，可以使用网盘下载。
 
-> https://www.magentacloud.de/share/ottqdjnjow#$/
+> https://ciaociao.tk/apps/files/?dir=/&fileid=3
 
 ### 电报群 
 
