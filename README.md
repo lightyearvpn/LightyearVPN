@@ -14,6 +14,10 @@
 
 陆续添加最新网站!
 
+### 应用下载
+
+<a target="_blank" href='https://play.google.com/store/apps/details?id=com.stingsystemllc.lightyearapp&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="300" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
 ### 网盘下载
 如果Github下载较慢，可以使用网盘下载。
 
