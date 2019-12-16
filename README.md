@@ -10,7 +10,9 @@
 
 > https://guangnianvpn.com
 
-> https://lightyearvpn.xyz 最新 2019/09/17 
+> https://lightyearvpn.xyz
+
+> https://lightyearvpn.club 最新 2019/12/16
 
 陆续添加最新网站!
 
