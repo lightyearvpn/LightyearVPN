@@ -22,7 +22,7 @@
 ### 网盘下载
 如果Github下载较慢，可以使用网盘下载。
 
-> https://ciaociao.tk/s/haXyeDFfuwkZG2Y
+> https://www.lanzous.com/b00t78yfe
 
 ### 电报群 
 
