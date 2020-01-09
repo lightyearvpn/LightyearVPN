@@ -5,13 +5,10 @@
 ## 光年VPN - 🔥🔥🔥简单，好用，安全的VPN，突破地区限制实现翻墙和科学上网
 
 ### 官网链接
-> https://lightyearvpn.club 最新 2019/12/16
+> https://lightyearvpn.site 最新 2020/01/09
 
 > https://lightyearvpn.com
 
-> https://guangnianvpn.com
-
-> https://lightyearvpn.xyz
 
 陆续添加最新网站!
 
