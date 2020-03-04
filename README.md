@@ -14,7 +14,7 @@
 
 ### 应用下载
 
-<a target="_blank" href='https://apps.apple.com/us/app/lightyearvpn-fast-trusted/id1495258888'><img width="300" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<a target="_blank" href='https://apps.apple.com/us/app/lightyearvpn-fast-trusted/id1495258888'><img width="222" alt='Get it on Google Play' src='https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred_2x.png'/></a>
 
 <a target="_blank" href='https://play.google.com/store/apps/details?id=com.stingsystemllc.lightyearapp'><img width="300" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
