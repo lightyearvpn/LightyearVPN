@@ -23,7 +23,7 @@
 > https://www.lanzous.com/b00t78yfe
 
 ### 如何从海外的应用商店下载APP
-<a target="_blank" href="https://zhuanlan.zhihu.com/p/36574047">5分钟注册美国区Apple ID（2020测试有效</a>
+> <a target="_blank" href="https://zhuanlan.zhihu.com/p/36574047">5分钟注册美国区Apple ID（2020测试有效</a>
 
 ### 电报群 
 
