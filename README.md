@@ -18,9 +18,12 @@
 <a target="_blank" href='https://play.google.com/store/apps/details?id=com.stingsystemllc.lightyearapp'><img width="300" alt='Get it on Google Play' src='https://applelaneanimalhospital.com/wp-content/uploads/2019/04/google.png'/></a>
 
 ### 网盘下载
-如果Github下载较慢，可以使用网盘下载。
+如果Github下载速度不理想，可以使用网盘下载，支持Windows，Mac，和Android客户端下载。
 
 > https://www.lanzous.com/b00t78yfe
+
+### 如何从海外的应用商店下载APP
+<a target="_blank" href="https://zhuanlan.zhihu.com/p/36574047">5分钟注册美国区Apple ID（2020测试有效</a>
 
 ### 电报群 
 
