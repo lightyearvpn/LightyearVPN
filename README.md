@@ -2,7 +2,7 @@
 <img alt="lightyearvpn logo" src="https://www.lightyearvpn.com/logo.png" width="88">
 </p>
 
-## LightyearVPN - Fast, stable, and overcome geo-restriction. Built with Shadowsocks and V2Ray protocals. No configuration, one press to connect. With 30+ VIP premium servers all over the world, unlimited data, watch HD videos smoothly. Run and operate by experts in US, and no backdoors and logs. Support AliPay and PayPal.
+## LightyearVPN - Fast, stable, and overcome geo-restriction. No configuration, one press to connect. With 30+ VIP premium servers all over the world, unlimited data, watch HD videos smoothly. Support AliPay and PayPal.
 
 ### Home
 > http://lightyearapps.club/ Unblocked address. Updates on 2020/03/03
@@ -17,7 +17,7 @@
 
 ### Cloud Drive
 
-If GitHub Download is slow, please try to download from Cloud Drive. Supports Windows, Mac, and Adnroid client app.
+If GitHub Download is slow, please download from Cloud Drive for Windows, Mac, and Adnroid client app.
 
 > https://www.lanzous.com/b00t78yfe
 
