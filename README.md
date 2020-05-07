@@ -28,3 +28,7 @@ If GitHub Download is slow, please download from Cloud Drive for Windows, Mac, a
 ### Telegram Group
 
 > https://t.me/lightyearvpn
+
+### English - https://github.com/lightyearvpn/LightyearVPN/blob/master/README.md
+
+### 中文 - https://github.com/lightyearvpn/LightyearVPN/blob/master/README.zh.md
