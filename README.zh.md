@@ -28,3 +28,7 @@
 ### 电报群 
 
 > https://t.me/lightyearvpn
+
+### English - https://github.com/lightyearvpn/LightyearVPN/blob/master/README.md
+
+### 中文 - https://github.com/lightyearvpn/LightyearVPN/blob/master/README.zh.md
