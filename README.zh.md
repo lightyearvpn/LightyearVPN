@@ -5,7 +5,7 @@
 ## 光年VPN - 快速稳定，科学上网。使用ShadowsocksR和V2Ray协议。无需配置一键连接。提供30多个VIP优化节点，无限流量，流畅观看高清视频。海外专业的运营和维护，请放心使用。支持支付宝和PayPal。
 
 ### 官网链接
-> http://www.lightyearvpn.best/ 最新免翻地址 2020/03/03更新
+> https://lightyearapp.xyz 最新免翻地址 2020/05/28更新
 
 > https://lightyearvpn.com
 
