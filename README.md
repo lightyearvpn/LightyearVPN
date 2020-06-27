@@ -5,7 +5,7 @@
 ## LightyearVPN - Fast, stable, and overcome geo-restriction. No configuration, one press to connect. With 30+ VIP premium servers all over the world, unlimited data, watch HD videos smoothly. Support AliPay and PayPal.
 
 ### Home
-> https://lightyearapp.xyz Unblocked address. Updates on 2020/05/028
+> https://lightyearapp.xyz Unblocked address. Updates on 2020/05/28
 
 > https://lightyearvpn.com
 
