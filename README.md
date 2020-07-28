@@ -19,6 +19,8 @@
 
 > https://lightyearvpn.com
 
+> https://lightyearvpn.site
+
 实时更新最新免翻墙地址!
 
 ### 应用下载
