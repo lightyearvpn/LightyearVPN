@@ -2,7 +2,7 @@
 <img alt="lightyearvpn logo" src="https://www.lightyearvpn.com/logo.png" width="88">
 </p>
 
-## 光年VPN - 翻墙，科学上网。
+## 光年VPN - 科学上网， 翻墙利器。
 
 - 使用SSR节点和V2Ray节点。
 - 无需配置，一键连接，适合小白。
