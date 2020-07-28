@@ -2,14 +2,16 @@
 <img alt="lightyearvpn logo" src="https://www.lightyearvpn.com/logo.png" width="88">
 </p>
 
-## 光年VPN - 快速稳定，科学上网。使用ShadowsocksR和V2Ray协议。无需配置一键连接。提供30多个VIP优化节点，无限流量，流畅观看高清视频。海外专业的运营和维护，请放心使用。支持支付宝和PayPal。
+## 光年VPN - 翻墙，科学上网。使用SSR节点和V2Ray节点。无需配置，一键连接，适合小白。提供全球40多个节点，包括BGP线路和CN2 GIA线路。无限流量，流畅观看高清视频。海外专业团队，美国成立公司。支持支付宝和PayPal，可7天内退款。注册后可免费VPN试用。
+
+> 官网提供免费SSR节点订阅链接，请访问[地址](https://lightyearapp.xyz/zh/free-vpn)
 
 ### 官网链接
 > https://lightyearapp.xyz 最新免翻地址 2020/05/28更新
 
 > https://lightyearvpn.com
 
-陆续添加最新网站!
+实时更新最新免翻墙地址!
 
 ### 应用下载
 
