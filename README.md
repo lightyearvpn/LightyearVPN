@@ -39,6 +39,6 @@
 
 > https://t.me/lightyearvpn
 
-### English - https://github.com/lightyearvpn/LightyearVPN/blob/master/README.md
+### English - https://github.com/lightyearvpn/LightyearVPN/blob/master/README.en.md
 
 ### 中文 - https://github.com/lightyearvpn/LightyearVPN/blob/master/README.zh.md
