@@ -12,7 +12,7 @@
 - 支持支付宝和PayPal，可7天内退款。
 - 注册后可免费VPN试用。
 
-> 官网提供免费SSR节点订阅链接，请访问[地址](https://lightyearapp.xyz/zh/free-vpn)
+> 官网提供免费SSR节点订阅链接，请访问[地址](https://lightyearapp.club/zh/free-vpn)
 
 ### 官网链接
 > http://lightyearapp.club 最新免翻墙地址 2020/08/07更新
