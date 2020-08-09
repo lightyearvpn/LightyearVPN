@@ -2,7 +2,7 @@
 <img alt="lightyearvpn logo" src="https://www.lightyearvpn.com/logo.png" width="88">
 </p>
 
-## 光年VPN - 科学上网， 翻墙利器。
+## [光年VPN](https://lightyearapp.club) - 科学上网， 翻墙利器。
 
 - 部署SSR节点和V2Ray节点。
 - 无需配置，一键连接，适合小白。
@@ -15,9 +15,9 @@
 > 官网提供免费SSR节点订阅链接，请访问[地址](https://lightyearapp.club/zh/free-vpn)
 
 ### 官网链接
-> https://lightyearapp.club 最新免翻墙地址 2020/08/07更新
+> [最新免翻墙地址(2020/08/07更新)](https://lightyearapp.club)
 
-> https://lightyearvpn.com 永久地址 
+> [官方永久地址](https://lightyearvpn.com)
 
 实时更新最新免翻墙地址!
 
