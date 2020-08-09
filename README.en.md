@@ -2,12 +2,12 @@
 <img alt="lightyearvpn logo" src="https://www.lightyearvpn.com/logo.png" width="88">
 </p>
 
-## LightyearVPN - Fast, stable, and overcome geo-restriction. No configuration, one press to connect. With 30+ VIP premium servers all over the world, unlimited data, watch HD videos smoothly. Support AliPay and PayPal.
+## [LightyearVPN](https://lightyearapp.club) - Fast, stable, and overcome geo-restriction. No configuration, one press to connect. With 30+ VIP premium servers all over the world, unlimited data, watch HD videos smoothly. Support AliPay and PayPal.
 
 ### Home
-> https://lightyearapp.xyz Unblocked address. Updates on 2020/05/28
+> [Unblocked website in China (Updates on 2020/05/28)](https://lightyearapp.club)
 
-> https://lightyearvpn.com
+> [Official website](https://lightyearvpn.com)
 
 ### Download
 
