@@ -15,7 +15,7 @@
 > 官网提供免费SSR节点订阅链接，请访问[地址](https://lightyearapp.club/zh/free-vpn)
 
 ### 官网链接
-> http://lightyearapp.club 最新免翻墙地址 2020/08/07更新
+> https://lightyearapp.club 最新免翻墙地址 2020/08/07更新
 
 > https://lightyearvpn.com 永久地址 
 
