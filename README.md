@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="lightyearvpn logo" src="https://www.lightyearvpn.com/logo.png" width="88">
+<img alt="lightyearvpn logo" src="https://lightyearvpn.com/assets/logo.png" width="88">
 </p>
 
 # [光年VPN - 科学上网， 翻墙利器](https://lightyearapp.me)
