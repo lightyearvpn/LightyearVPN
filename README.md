@@ -2,7 +2,7 @@
 <img alt="lightyearvpn logo" src="https://lightyearvpn.com/assets/logo.png" width="88">
 </p>
 
-# [光年VPN - 科学上网， 翻墙利器](https://lightyearapp.me)
+# [光年VPN - 科学上网， 翻墙利器](https://lightyearapp.life)
 
 > 建议收藏此页面防止失联或者丢失 
 
@@ -14,10 +14,10 @@
 - 支持支付宝和PayPal，可7天内退款。
 - 注册后可免费VPN试用。
 
-> 官网提供免费SSR节点订阅链接，请访问[地址](https://lightyearapp.me/zh/free-vpn)
+> 官网提供免费SSR节点订阅链接，请访问[地址](https://lightyearapp.life/zh/free-vpn)
 
 ## 官网链接
-- [最新免翻墙地址(2020/09/01更新)](https://lightyearapp.me)
+- [最新免翻墙地址(2020/09/01更新)](https://lightyearapp.life)
 - [官方永久地址](https://lightyearvpn.com)
 
 > 实时更新最新免翻墙地址!
