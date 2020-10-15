@@ -2,10 +2,10 @@
   <img alt="lightyearvpn logo" src="https://lightyearvpn.com/assets/logo.png" width="88">
 </p>
 
-## [LightyearVPN](https://lightyearapp.club) - Fast, stable, and overcome geo-restriction. No configuration, one press to connect. With 30+ VIP premium servers all over the world, unlimited data, watch HD videos smoothly. Support AliPay and PayPal.
+## [LightyearVPN](https://lightyearapp.life) - Fast, stable, and overcome geo-restriction. No configuration, one press to connect. With 30+ VIP premium servers all over the world, unlimited data, watch HD videos smoothly. Support AliPay and PayPal.
 
 ### Home
-> [Unblocked website in China (Updates on 2020/05/28)](https://lightyearapp.club)
+> [Unblocked website in China (Updates on 2020/05/28)](https://lightyearapp.life)
 
 > [Official website](https://lightyearvpn.com)
 
@@ -19,7 +19,7 @@
 
 If GitHub Download is slow, please download from Cloud Drive for Windows, Mac, and Adnroid client app.
 
-> https://www.lanzous.com/b00t78yfe
+> https://lightyear.lanzous.com/b00tu4njg
 
 ### How to download APP from App Store in China
 
