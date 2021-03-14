@@ -19,7 +19,7 @@
 > 官网提供免费SSR节点订阅链接，请访问[地址](https://lightyearapp.life/zh/free-vpn)
 
 ## 官网链接
-- [最新免翻墙地址(2020/09/01更新)](https://lightyearapp.life)
+- [最新免翻墙地址(2020/09/01更新)](https://lightyearapp.live)
 - [官方永久地址](https://lightyearvpn.com)
 
 > 实时更新最新免翻墙地址!
