@@ -19,7 +19,7 @@
 
 If GitHub Download is slow, please download from Cloud Drive for Windows, Mac, and Adnroid client app.
 
-> https://lightyear.lanzous.com/b00tu4njg
+> https://lightyear.lanzoui.com/b00tu4njg
 
 ### How to download APP from App Store in China
 
