@@ -32,7 +32,7 @@
 ## 网盘下载
 如果Github下载速度不理想，可以使用网盘下载，支持Windows，Mac，和Android客户端下载。
 
-> https://lightyear.lanzous.com/b00tu4njg
+> https://lightyear.lanzoui.com/b00tu4njg
 
 ## 如何从海外的应用商店下载APP
 > <a target="_blank" href="https://zhuanlan.zhihu.com/p/36574047">5分钟注册美国区Apple ID（2020测试有效）</a>
