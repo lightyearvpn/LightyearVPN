@@ -2,7 +2,7 @@
   <img alt="lightyearvpn logo" src="https://lightyearvpn.com/assets/logo.png" width="88">
 </p>
 
-## [LightyearVPN](https://lightyearapp.life) - Fast, stable, and overcome geo-restriction. No configuration, one press to connect. With 30+ VIP premium servers all over the world, unlimited data, watch HD videos smoothly. Support AliPay and PayPal.
+## [LightyearVPN](https://lightyearapp.life) - Fast, stable, and overcome geo-restriction. No configuration, one press to connect, no hussle. With 70+ VPN servers cross the world. Deployed Trojan, Shadowsocks and V2ray servers. Unlimited data and unlimited bandwidth. Watch HD videos with high speed smoothly. Support AliPay, PayPal and Visa.
 
 ### Home
 > [Unblocked website in China (Updates on 2020/05/28)](https://lightyearapp.life)
